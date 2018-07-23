@@ -1,4 +1,4 @@
-# Adonis fullstack application
+# Adonis REST API example
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
@@ -29,4 +29,3 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
-# Rest API with Adonis
